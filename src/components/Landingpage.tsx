@@ -11,7 +11,7 @@ export default function LandingPage() {
       <div className="bg-white p-8 rounded-lg shadow-lg text-center max-w-md w-full">
         {/* Logo */}
         <div className="flex justify-center mb-4">
-          <Image src="/grlogo.png" alt="Drivisory Logo" width={150} height={150} />
+          <Image src="/grlogo.png" alt="gr Logo" width={150} height={150} />
         </div>
 
         {/* Title & Description */}
