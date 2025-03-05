@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 export default function LandingPage() {
-  const [showQR, setShowQR] = useState(true); // QR code is visible by default
+  const [showQR] = useState(true); // QR code is visible by default
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-100 px-4">
