@@ -19,7 +19,7 @@ export default function LandingPage() {
         <p className="text-gray-600 mb-6">Click the button below to install the app!</p>
 
         {/* Install Button */}
-        <Link href="https://drive.google.com/file/d/1KKaVgkU1S37CbQ7V_vlEJRUIxhFDMtrc/view?usp=sharing" className="bg-blue-600 text-white px-6 py-3 rounded-md hover:bg-blue-700 transition-colors text-lg font-semibold">
+        <Link href="https://drive.google.com/file/d/1Cb7nqtKHifwx5qm1wiez2MONl_SryfNN/view?usp=drive_link" className="bg-blue-600 text-white px-6 py-3 rounded-md hover:bg-blue-700 transition-colors text-lg font-semibold">
           Install
         </Link>
 
