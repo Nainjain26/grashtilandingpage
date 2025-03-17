@@ -27,7 +27,7 @@ export default function LandingPage() {
         {showQR && (
           <div className="mt-6">
             <Image
-              src="/Qr.png" // Replace with actual QR code image
+              src="/grahsti.png" // Replace with actual QR code image
               alt="QR Code"
               width={200}
               height={200}
